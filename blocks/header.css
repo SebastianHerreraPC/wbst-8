@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  padding: 20px 10px 0;
+  justify-content: center;
+  align-items: center;
+  min-height: 120px;
+  padding: 5px;
+  background-color: #e1cde5;
+}
+.logo {
+}
+.header__logo {
+  max-width: 80px;
+}

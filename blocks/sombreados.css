@@ -1,4 +1,11 @@
-.sombreados {
+.sombreado {
+  font-family: "Inter", Arial, sans-serif;
+  background-color: #efe3f1;
+}
+.sombreado__wrapper {
+  width: 500px;
+  margin: auto;
+  padding: 50px 0;
 }
 .sombreados__titulos {
   color: #412645;
