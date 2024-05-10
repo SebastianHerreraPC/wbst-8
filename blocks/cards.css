@@ -1,0 +1,22 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cards__item {
+  display: flex;
+  width: 240px;
+  height: 240px;
+  color: #efe3f1;
+  margin: 10px 10px 0 0;
+  background-color: #a470ad;
+  position: relative;
+}
+
+.cards__item-title {
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  margin: 0;
+  font-size: 24px;
+}
