@@ -20,3 +20,18 @@
   margin: 0;
   font-size: 24px;
 }
+
+.cards__item_blur:hover {
+  box-shadow: 0px 0px 50px #412645;
+}
+
+.cards__item_shadow:hover {
+  box-shadow: 10px 10px 10px #764e7b;
+}
+
+.cards__item_linear-gradient:hover {
+  background-image: linear-gradient(#fbf8fc, #412645);
+}
+.cards__item_radial-gradient:hover {
+  background-image: radial-gradient(#fbf8fc, #412645);
+}
